@@ -1,4 +1,4 @@
-# CMakeProject1_fraction_calculator
+# Fraction calculator
 ***
 ## 一个课程作业--分数计算器
 > 函数的声明直接沿用了作业所给的模板
